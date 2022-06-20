@@ -187,7 +187,6 @@ const arrNames = [
     do {
         for (let j = 0; j < leng ; j++){
         if(arrSave[0] !== undefined){
-          console.log()
             arr1d.push(arrSave[0]);
                 arrSave.shift();  
         }
